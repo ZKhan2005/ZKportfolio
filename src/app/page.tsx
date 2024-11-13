@@ -17,7 +17,7 @@ export default function Home() {
             </span>
           </h1>
           <p className="text-gray-300 hidden md:block">
-          Hello, and thank you for visiting my portfolio! As a front-end developer with a strong focus on creating seamless, visually engaging web experiences, I bring ideas to life with precision and creativity. Take a look at my projects and skills, and let's collaborate to turn your concepts into remarkable digital realities
+          Hello, and thank you for visiting my portfolio! As a front-end developer with a strong focus on creating seamless, visually engaging web experiences, I bring ideas to life with precision and creativity. Take a look at my projects and skills, and lets collaborate to turn your concepts into remarkable digital realities
           </p>
           <div className="flex-col md:flex-row hidden md:flex gap-5">
             <Link
