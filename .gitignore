@@ -1,0 +1,11 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore .env file
+.env
+
+# Ignore log files
+*.log
+
+# Ignore OS-specific files (for MacOS)
+.DS_Store
